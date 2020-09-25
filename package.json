@@ -1,7 +1,7 @@
 {
-  "name": "challenge_1",
+  "name": "BKBP",
   "version": "1.0.0",
-  "description": "Historical event finder",
+  "description": "A light weight full featured boiler plate",
   "main": "index.js",
   "scripts": {
     "test": "jest --coverage",
@@ -18,14 +18,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Kptkrunch/hratx48-mini-apps-2.git"
+    "url": "https://github.com/Kptkrunch/berryKrunchyBoilerPlate"
   },
   "author": "Joshua Edwards",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/Kptkrunch/hratx48-mini-apps-2/issues"
-  },
-  "homepage": "https://github.com/Kptkrunch/hratx48-mini-apps-2#readme",
+  "homepage": "https://github.com/Kptkrunch",
   "dependencies": {
     "path": "^0.12.7",
     "react": "^16.13.1",
