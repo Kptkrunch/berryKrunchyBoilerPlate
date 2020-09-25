@@ -11,4 +11,3 @@ to get started:
 3. npm run build (builds bundle.js)
 4. npm start (If using the provided server use "npm run server" instead)
 
-If you want to add dependencies, npm install --save-dev nameofdependency
